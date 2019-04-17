@@ -15,10 +15,12 @@ public class Zadanie1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
         int a=3, b=4;
         int suma=a+b;
         
         System.out.println("Wynik dodawania: "+suma);
+
     }
     
 }
